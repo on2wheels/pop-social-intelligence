@@ -1,0 +1,11 @@
+.env
+*.db
+__pycache__/
+*.pyc
+logs/*.log
+APPROVED_POSTS.txt
+DAILY_DIGEST.md
+BRAND_DIGEST.md
+BRAND_REPORT_*.md
+DECISION_REPORT_*.md
+.venv/
